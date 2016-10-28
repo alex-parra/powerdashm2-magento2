@@ -57,18 +57,18 @@ Right on your Dashboard, with almost zero-configuration, you'll get:
 
 
 ### Shop with confidence
-- _Single Payment:_ No recurring fees;
-- _Plug&Play:_ Easy DIY install;
-- _International:_ EN, DE [DE+AT+CH], ES [ES+AR+MX], FR [FR+CA], PT [PT+BR];
+- **Single Payment:** No recurring fees;
+- **Plug&Play:** Easy DIY install;
+- **International:** EN, DE [DE+AT+CH], ES [ES+AR+MX], FR [FR+CA], PT [PT+BR];
   if language is not available, displays in English
-- _MultiStore:_ Narrow reports with Store Switcher;
-- _Flexible:_ No limit on websites/stores;
+- **MultiStore:** Narrow reports with Store Switcher;
+- **Flexible:** No limit on websites/stores;
   License is per Magento install (dev/local allowed)
-- _Fast:_ Efficient data caching;
-- _Privacy:_ Your data NEVER leaves your server;
-- _Friendly:_ Download package includes detailed instructions;
-- _Support:_ 30 days, fast email support included;
-- _Upgrades:_ any released version within 12 months;
+- **Fast:** Efficient data caching;
+- **Privacy:** Your data NEVER leaves your server;
+- **Friendly:** Download package includes detailed instructions;
+- **Support:** 30 days, fast email support included;
+- **Upgrades:** any released version within 12 months;
   50% off after 12 months
 
 
