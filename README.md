@@ -59,16 +59,16 @@ Right on your Dashboard, with almost zero-configuration, you'll get:
 ### Shop with confidence
 - **Single Payment:** No recurring fees;
 - **Plug&Play:** Easy DIY install;
-- **International:** EN, DE [DE+AT+CH], ES [ES+AR+MX], FR [FR+CA], PT [PT+BR];
+- **International:** EN, DE [DE+AT+CH], ES [ES+AR+MX], FR [FR+CA], PT [PT+BR];  
   if language is not available, displays in English
 - **MultiStore:** Narrow reports with Store Switcher;
-- **Flexible:** No limit on websites/stores;
+- **Flexible:** No limit on websites/stores;  
   License is per Magento install (dev/local allowed)
 - **Fast:** Efficient data caching;
 - **Privacy:** Your data NEVER leaves your server;
 - **Friendly:** Download package includes detailed instructions;
 - **Support:** 30 days, fast email support included;
-- **Upgrades:** any released version within 12 months;
+- **Upgrades:** any released version within 12 months;  
   50% off after 12 months
 
 
@@ -79,7 +79,7 @@ Right on your Dashboard, with almost zero-configuration, you'll get:
 - Follows Magento coding best practices;
 - Great care has been put into optimizing all database queries for maximum performance;
 - No Core or Database tables are affected or damaged;
-- Your data NEVER leaves your server;
+- Your data NEVER leaves your server;  
   (PowerDashM2 does not collect or send any data to its servers or other third-party servers.)
 
 
